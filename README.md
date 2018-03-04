@@ -1,7 +1,7 @@
 # Toy-Neural-Network-Unity
 
 This code is port of "Toy-Neural-Network-JS" form Daniel shiffman.
-There is only one activate function added to which is sigmoid function.
+There is only one activate function which is added to sigmoid function.
 
 For more detail about Neural-Network, go to the "The coding Train" youtube channel the links below.
 
